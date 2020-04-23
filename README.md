@@ -1,9 +1,13 @@
 # MDCN_PyTorch
 ### This repository is an official PyTorch implementation of “MDCN".
 
-This paper has been submitted to TCSVT.
+### This paper has been submitted to TCSVT.
 
-Paper and Code will be released soon.
+### We will publish the paper and authors information after the paper is accepted.
+
+### More detailed ablation analysis experiments will be publish after the paper is accepted.
+
+### All reconstructed images will be provided soon.
 
 
 ## Prerequisites:
@@ -64,10 +68,3 @@ MDCN x4 on DIV2K training dataset  and  validation dataset.
 <img src="images/loss_L1_x4.png" width="400px" height="300px"/> <img src="images/test_DIV2K_x4.png" width="400px" height="300px"/> 
 </p>
 
-
-
-### We will publish the paper and authors information after the paper is accepted.
-
-### More detailed ablation analysis experiments will be publish after the paper is accepted.
-
-### All reconstructed images will be provided soon.
