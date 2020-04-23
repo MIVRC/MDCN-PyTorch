@@ -66,8 +66,8 @@ MDCN x4 on DIV2K training dataset  and  validation dataset.
 
 
 
-## We will publish the paper and authors information after the paper is accepted.
+### We will publish the paper and authors information after the paper is accepted.
 
-## More detailed ablation analysis experiments will be publish after the paper is accepted.
+### More detailed ablation analysis experiments will be publish after the paper is accepted.
 
-## All reconstructed images will be provided soon.
+### All reconstructed images will be provided soon.
