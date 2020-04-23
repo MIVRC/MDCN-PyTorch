@@ -35,11 +35,11 @@ Our MDCN is trained on RGB. Following previous works, we only reported PSNR/SSIM
 </p>
 
 <p align="center">
-  <img src="images/Visual" width="800px" height="600px"/> 
+  <img src="images/Visual.png" width="800px" height="600px"/> 
 </p>
 
 <p align="center">
-  <img src="images/MSRN" width="500px" height="350px"/> 
+  <img src="images/MSRN.png" width="500px" height="350px"/> 
 </p>
 
 
