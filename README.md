@@ -74,7 +74,7 @@ All original test datasets (HR images) can be downloaded from <a href="https://w
 
 Using pre-trained model for training, all test datasets must be pretreatment by  Prepare_TestData_HR_LR.m .
 
- The pre-trained model has been put in Test/model/ .
+ Using pre-trained model for test, all test datasets must be pretreatment by  Prepare_TestData_HR_LR.m and all pre-trained model should be put into Test/model/ first.
 
 ```python
 cd Test/code/
